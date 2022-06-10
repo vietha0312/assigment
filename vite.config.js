@@ -8,6 +8,7 @@ module.exports = defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         DetailProduct: resolve(__dirname, 'home.html'),
+        DetailProduct: resolve(__dirname, 'blog.html'),
        
       }
     }
